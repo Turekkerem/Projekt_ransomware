@@ -56,7 +56,7 @@ Projekt został celowo wystylizowany jako **parodia WannaCry**:
 
 ## ✍️ Autor
 
-Projekt stworzony przez [TwojeImięLubNick]  
+Projekt stworzony przez **Turekkerem**
 Zainteresowany cyberbezpieczeństwem, inżynierią odwrotną i analizą zachowania zagrożeń.
 
 ---
